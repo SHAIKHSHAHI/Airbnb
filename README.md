@@ -9,10 +9,10 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 ## Objective
 The goal of this project is to:
 
-Analyze **room types**, **prices**, and **availability** across different neighborhoods.
-Understand **host behavior** and listing patterns.
-Detect potential **outliers** in prices.
-Provide recommendations for guests and hosts based on insights.
+- Analyze **room types**, **prices**, and **availability** across different neighborhoods.
+- Understand **host behavior** and listing patterns.
+- Detect potential **outliers** in prices.
+- Provide recommendations for guests and hosts based on insights.
 
 ## Dataset
 The dataset contains 20,765 entries and 22 features, including:
@@ -99,7 +99,7 @@ Listings with high availability tend to have lower prices and more reviews, like
 
 - Look for listings with high availability and good reviews for a better experience.
 - Private rooms in Brooklyn offer affordable stays compared to Manhattan.
-- 
+  
 **2.For Hosts:**
 
 - Improve availability and review response rates to attract more bookings.
